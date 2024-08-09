@@ -1,8 +1,11 @@
+import Script from "./component/script"
 
 function App() {
 
   return (
-    <h1>hey babe</h1>
+    <
+    Script
+    />
   )
 }
 
